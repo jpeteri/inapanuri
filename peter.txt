@@ -1,3 +1,7 @@
 "Peter1"
 "Peter2 Added Again2"
+<<<<<<< HEAD
 "Peter3 Added now"
+=======
+"Peter3 Added now""Hello Dancer"
+>>>>>>> feature_peter
